@@ -1,6 +1,5 @@
 # falaee, bem vindo ao meu portifólio!👋 
 # About Me☕:
-<img widht="280" height="270" alt="8MSgG1" src="https://github.com/user-attachments/assets/a8aef445-33b3-4af1-b4c0-a9442f1982a5" />
 <img width="240" height="240" alt="6ff8acc22bb74de0a6aeb2738d065002~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/3c4384b3-fc10-4f92-8921-aa950e50886e" />
 
 Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
