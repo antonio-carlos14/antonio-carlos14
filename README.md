@@ -1,9 +1,7 @@
 # falaee, bem vindo ao meu portifólio!👋 
-<img height= 150 align=right src="https://64.media.tumblr.com/4517c677144b786d586568b5195c057c/5dfb52c79a83fdf4-9f/s640x960/a563e41fd37b9aa4c6514ca2b8a0a02263a022e7.gif"/>
-
-
 # About Me☕:
 <img widht="280" height="270" alt="8MSgG1" src="https://github.com/user-attachments/assets/a8aef445-33b3-4af1-b4c0-a9442f1982a5" />
+<img width="240" height="240" alt="6ff8acc22bb74de0a6aeb2738d065002~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/3c4384b3-fc10-4f92-8921-aa950e50886e" />
 
 Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
 
