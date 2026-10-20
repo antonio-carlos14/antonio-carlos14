@@ -1,10 +1,10 @@
-# falaee, bem vindo ao meu portifólio!👋 
+## falaee, bem vindo ao meu portifólio!👋 
 # About Me☕:
 <img width="240" height="240" alt="6ff8acc22bb74de0a6aeb2738d065002~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/3c4384b3-fc10-4f92-8921-aa950e50886e" />
 
 Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
 
-## Experiencia em:
+# Experiencia em:
 <div style="display:inline-block">
  
 <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
