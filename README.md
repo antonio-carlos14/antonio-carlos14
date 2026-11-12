@@ -1,12 +1,6 @@
 ## falaee, bem vindo ao meu portifólio!👋  
 # About Me☕:  <img width="50" height="50" alt="7be54c416baf48cd9a92a1aa788087bc~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" />
-
-
-
 <img width="240" height="240" alt="931c46af043b479988427602562b400a~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/6c5807f9-53a3-4c02-8e1d-6864cc6bfaa9" />
-
-
-
 
 Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
 
@@ -33,4 +27,6 @@ Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na E
 
 
 <img height= 50 align=right src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif"/>
+
+
 #### Processando...
