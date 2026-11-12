@@ -13,9 +13,9 @@ Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na E
 
 ## "Na física, a força resultante determina a aceleração, mas na vida, resultados extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa" ⛈️ 🧠 
 <br>
-<img widht="50" height="50" alt="8MSgG1" src="https://www.bing.com/th/id/OGC.3b50eb7f5b41d4a87e076693aaef8d25?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia1.tenor.com%2fm%2fCIP5szhfb40AAAAC%2fblack-clover-yami-fight.gif&ehk=dm8f2DCdH1zeBwWYq%2f2aUFyccQfDxuVfWujn4Vmgt8s%3d" />
 
 ### ✍️ Random Dev Quote🎮🕹️👾
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake-dark.svg">
@@ -29,4 +29,4 @@ Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na E
 <img height= 50 align=right src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif"/>
 
 
-#### Processando...
+#### Processando... <img widht="50" height="50" alt="8MSgG1" src="https://www.bing.com/th/id/OGC.3b50eb7f5b41d4a87e076693aaef8d25?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia1.tenor.com%2fm%2fCIP5szhfb40AAAAC%2fblack-clover-yami-fight.gif&ehk=dm8f2DCdH1zeBwWYq%2f2aUFyccQfDxuVfWujn4Vmgt8s%3d" />
