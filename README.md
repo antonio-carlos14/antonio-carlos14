@@ -34,7 +34,7 @@
         <br>
         <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.
         <br>
-        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, por amor, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
+        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
         <br>
         <em>"Jamais te trairia, <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
