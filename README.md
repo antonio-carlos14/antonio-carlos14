@@ -15,10 +15,28 @@
       <h2>About Me ☕ <img width="35" height="35" alt="Sticker Café" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" /></h2>
       <p>
         Bem-vindo ao meu GitHub! 👋<br><br>
-        Me chamo <strong>Antônio</strong> e estou cursando <strong>Informática</strong> na <em>EEEP. Deputado Roberto Mesquita</em>.
+        Me chamo <strong>Antônio</strong> e estou cursando <strong>Informática</strong> na <em>EEEP. Deputado Roberto Mesquita</em>. <br>
+        Da queda, ao <strong>Topo!</strong>. <br>
+        Totalmente im-<strong>PAR-CI-AAL</strong>
       </p>
       <blockquote>
         <em>"Na física, a força resultante determina a aceleração, mas na vida, resultados extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa."</em> ⛈️ 🧠
+        <br><br>
+        <strong>Eu...</strong>
+        <br><br>
+        <em>"Posso ser quem vai te deixar na cara do Gol, como <strong>Rodrygo Garro</strong>"</em>.
+        <br>
+        <em>"Posso fazer o Facão para você jogar livremente, como <strong>Yuri Alberto</strong>"</em>.
+        <br>
+        <em>"Farei tudo que puder por você mesmo que por um breve momento, como <strong>Roger Guedes</strong>"</em>.
+        <br>
+        <em>"Jogo na função que você mais estiver carecido, como <strong>Matheuzinho</strong>"</em>.
+        <br>
+        <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.
+        <br>
+        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, por amor, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
+        <br>
+        <em>"Jamais te trairia, <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
     </td>
   </tr>
