@@ -1,32 +1,71 @@
-## falaee, bem vindo ao meu portifólio!👋  
-# About Me☕:  <img width="50" height="50" alt="7be54c416baf48cd9a92a1aa788087bc~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" />
-<img width="240" height="240" alt="931c46af043b479988427602562b400a~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/6c5807f9-53a3-4c02-8e1d-6864cc6bfaa9" />
+<!-- Banner de Topo com Cor de Fundo -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2ea043&height=200&section=header&text=Falaee,%20bem-vindo%20ao%20meu%20portf%C3%B3lio!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B4nio%20Carlos%20%7C%20Estudante%20de%20Inform%C3%A1tica&descAlignY=58&descSize=18" />
+</div>
 
-Bem vindo ao meu Github!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
-
-# Experiencia em: <img width="50" height="50" alt="6ff8acc22bb74de0a6aeb2738d065002~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/3c4384b3-fc10-4f92-8921-aa950e50886e" />
-
-<div style="display:inline-block">
- 
-<img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
-<img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
-
-## "Na física, a força resultante determina a aceleração, mas na vida, resultados extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa" ⛈️ 🧠 
 <br>
 
-### ✍️ Random Dev Quote🎮🕹️👾
+<!-- Seção About Me com Avatar alinhado -->
+<table align="center" width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img width="200" height="200" alt="Avatar" src="https://github.com/user-attachments/assets/6c5807f9-53a3-4c02-8e1d-6864cc6bfaa9" />
+    </td>
+    <td width="70%">
+      <h2>About Me ☕ <img width="35" height="35" alt="Sticker Café" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" /></h2>
+      <p>
+        Bem-vindo ao meu GitHub! 👋<br><br>
+        Me chamo <strong>Antônio</strong> e estou cursando <strong>Informática</strong> na <em>EEEP. Deputado Roberto Mesquita</em>.
+      </p>
+      <blockquote>
+        <em>"Na física, a força resultante determina a aceleração, mas na vida, resultados extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa."</em> ⛈️ 🧠
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
 
+<!-- Seção de Tecnologias -->
+<div align="center">
+  <h2>Experiência em: <img width="35" height="35" alt="Sticker Tech" src="https://github.com/user-attachments/assets/3c4384b3-fc10-4f92-8921-aa950e50886e" /></h2>
+  <br>
+  <img height="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img height="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML" />
+</div>
 
+<br>
 
+<!-- Citação Dev com Fundo Escuro -->
+<div align="center">
+  <h3>✍️ Random Dev Quote 🎮🕹️👾</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
+</div>
 
-<img height= 50 align=right src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif"/>
+<br>
 
+<!-- Animação da Cobrinha (Contribuições) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-#### Processando... <img widht="50" height="50" alt="8MSgG1" src="https://www.bing.com/th/id/OGC.3b50eb7f5b41d4a87e076693aaef8d25?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia1.tenor.com%2fm%2fCIP5szhfb40AAAAC%2fblack-clover-yami-fight.gif&ehk=dm8f2DCdH1zeBwWYq%2f2aUFyccQfDxuVfWujn4Vmgt8s%3d" />
+<br>
+
+<!-- Rodapé / Status -->
+<div align="center">
+  <h4>
+    Processando... 
+    <img width="45" height="45" alt="Yami" src="https://media1.tenor.com/m/CIP5szhfb40AAAAC/black-clover-yami-fight.gif" />
+    <img width="45" height="45" alt="Gif Extra" src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif" />
+  </h4>
+</div>
+
+<!-- Banner de Rodapé com Cor de Fundo -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2ea043&height=100&section=footer" />
+</div>
