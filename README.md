@@ -36,7 +36,7 @@
         <br>
         <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
         <br>
-        <em>"Jamais te trairia, <strong>Carlos Miguel</strong>"</em>.
+        <em>"Jamais te trairia, como <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
     </td>
   </tr>
