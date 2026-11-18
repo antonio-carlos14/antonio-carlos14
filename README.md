@@ -2,25 +2,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2ea043&height=200&section=header&text=Falaee,%20bem-vindo%20ao%20meu%20portf%C3%B3lio!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B4nio%20Carlos%20%7C%20Estudante%20de%20Inform%C3%A1tica&descAlignY=58&descSize=18" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Seção About Me com Avatar alinhado -->
 <table align="center" width="100%">
   <tr>
@@ -51,9 +32,9 @@
         <br>
         <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.<img height="35" alt="7dee8bc2971a459faf1418cab0432c7f~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/f86b00a1-40da-4bd5-b4cf-20d00c732594" />
         <br>
-        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.<img height="35" alt="image" src="https://github.com/user-attachments/assets/0a91fe02-bdce-4f4d-9ea3-e1d3241d62e4" />
+        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
         <br>
-        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong></em>.<img height="35" alt="image" src="https://github.com/user-attachments/assets/8456ad9e-a59f-4899-86bd-fa6a47f38e94" />
+        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong></em>.
         <br>
         <em>"Jamais te trairia, como <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
