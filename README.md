@@ -3,7 +3,23 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2ea043&height=200&section=header&text=Falaee,%20bem-vindo%20ao%20meu%20portf%C3%B3lio!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B4nio%20Carlos%20%7C%20Estudante%20de%20Inform%C3%A1tica&descAlignY=58&descSize=18" />
 </div>
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Seção About Me com Avatar alinhado -->
 <table align="center" width="100%">
@@ -12,9 +28,9 @@
       <img width="200" height="200" alt="Avatar" src="https://github.com/user-attachments/assets/6c5807f9-53a3-4c02-8e1d-6864cc6bfaa9" />
     </td>
     <td width="70%">
-      <h2>About Me ☕ <img width="35" height="35" alt="Sticker Café" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" /></h2>
+      <h2>About Me ☕ <img width="35" height="50" alt="Sticker Café" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" /></h2>
       <p>
-        Bem-vindo ao meu GitHub! 👋<br><br>
+        Bem-vindo ao meu GitHub! 👋 <br><br>
         Me chamo <strong>Antônio</strong> e estou cursando <strong>Informática</strong> na <em>EEEP. Deputado Roberto Mesquita</em>. <br>
         Da queda, ao <strong>Topo!</strong>. <br>
         Totalmente im-<strong>PAR-CI-AAL</strong>
@@ -24,21 +40,21 @@
         <br><br>
         <strong>Eu...</strong>
         <br><br>
-        <em>"Posso ser quem vai te deixar na cara do Gol, como <strong>Rodrygo Garro</strong>"</em>.<img height="35![Uploading 9d926d3b341e4032afbb80f7ecd1cfc2~tplv-dhq7zx4c1p-video2sticker-mid.webp…]()
-![Uploading 9d926d3b341e4032afbb80f7ecd1cfc2~tplv-dhq7zx4c1p-video2sticker-mid.webp…]()
-" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Posso ser quem vai te deixar na cara do Gol, como <strong>Rodrygo Garro</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/f9818c1c-2993-4d61-b0f8-15ce5534368b" />
         <br>
-        <em>"Posso fazer o Facão para você jogar livremente, como <strong>Yuri Alberto</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Posso fazer o Facão para você jogar livremente, como <strong>Yuri Alberto</strong>"</em><img height="35" alt="9d926d3b341e4032afbb80f7ecd1cfc2~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/d9c774ca-4346-47fc-8758-930241774b0b" />
         <br>
-        <em>"Farei tudo que puder por você mesmo que por um breve momento, como <strong>Roger Guedes</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Farei tudo que puder por você mesmo que por um breve momento, como <strong>Roger Guedes</strong>"</em>.
         <br>
-        <em>"Jogo na função que você mais estiver carecido, como <strong>Matheuzinho</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Jogo na função que você mais estiver carecido, como <strong>Matheuzinho</strong>"</em>.<img height="35![Uploading 97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid.webp…]()
+" alt="be02c2fb574443aa98a69df8d5eaba5e~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/a7515e4a-36ce-410d-b63d-0ef615b31d91" />
         <br>
-        <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.<img height="35" alt="7dee8bc2971a459faf1418cab0432c7f~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/f86b00a1-40da-4bd5-b4cf-20d00c732594" />
         <br>
-        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.<img height="35" alt="image" src="https://github.com/user-attachments/assets/0a91fe02-bdce-4f4d-9ea3-e1d3241d62e4" />
         <br>
-        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong></em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
+        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong></em>.<img height="35" alt="image" src="https://github.com/user-attachments/assets/8456ad9e-a59f-4899-86bd-fa6a47f38e94" />
+        <br>
         <em>"Jamais te trairia, como <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
     </td>
