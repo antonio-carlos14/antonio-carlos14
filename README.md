@@ -24,18 +24,21 @@
         <br><br>
         <strong>Eu...</strong>
         <br><br>
-        <em>"Posso ser quem vai te deixar na cara do Gol, como <strong>Rodrygo Garro</strong>"</em>.
+        <em>"Posso ser quem vai te deixar na cara do Gol, como <strong>Rodrygo Garro</strong>"</em>.<img height="35![Uploading 9d926d3b341e4032afbb80f7ecd1cfc2~tplv-dhq7zx4c1p-video2sticker-mid.webp…]()
+![Uploading 9d926d3b341e4032afbb80f7ecd1cfc2~tplv-dhq7zx4c1p-video2sticker-mid.webp…]()
+" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <br>
-        <em>"Posso fazer o Facão para você jogar livremente, como <strong>Yuri Alberto</strong>"</em>.
+        <em>"Posso fazer o Facão para você jogar livremente, como <strong>Yuri Alberto</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <br>
-        <em>"Farei tudo que puder por você mesmo que por um breve momento, como <strong>Roger Guedes</strong>"</em>.
+        <em>"Farei tudo que puder por você mesmo que por um breve momento, como <strong>Roger Guedes</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <br>
-        <em>"Jogo na função que você mais estiver carecido, como <strong>Matheuzinho</strong>"</em>.
+        <em>"Jogo na função que você mais estiver carecido, como <strong>Matheuzinho</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <br>
-        <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.
+        <em>"Posso ser quem irá cobrar o Pênalti decisivo, como <strong>Breno Bidon</strong> na Copa do Brasil"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <br>
-        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
+        <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <br>
+        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong></em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/9ea772ce-994e-41bb-8f28-12d1d856568b" />
         <em>"Jamais te trairia, como <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
     </td>
