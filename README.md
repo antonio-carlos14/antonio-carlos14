@@ -76,12 +76,24 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-carlos14&theme=tokyonight&hide_border=true&locale=pt" alt="Sequência de Contribuições" />
 </div>
+
 <br>
+<br>
+
 <!-- Gráfico de Contribuições e Linguagens Adicionais acima da cobrinha -->
 <div align="center">
   <!-- Gráfico de Atividade / Commits -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonio-carlos14&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" />
+  
+  <br><br>
+
+  <!-- Linguagens utilizadas (Formato Completo/Detalhado) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-carlos14&layout=normal&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-BR" alt="Linguagens Detalhadas" />
+</div>
+
 <br>
+<br>
+
 <!-- Animação da Cobrinha (Contribuições) -->
 <div align="center">
   <picture>
@@ -90,7 +102,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 <br>
+
 <!-- Rodapé / Status -->
 <div align="center">
   <h4>
