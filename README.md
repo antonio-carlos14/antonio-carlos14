@@ -2,6 +2,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2ea043&height=200&section=header&text=Falaee,%20bem-vindo%20ao%20meu%20portf%C3%B3lio!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B4nio%20Carlos%20%7C%20Estudante%20de%20Inform%C3%A1tica&descAlignY=58&descSize=18" />
 </div>
+
 <!-- Seção About Me com Avatar alinhado -->
 <table align="center" width="100%">
   <tr>
@@ -75,17 +76,12 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-carlos14&theme=tokyonight&hide_border=true&locale=pt" alt="Sequência de Contribuições" />
 </div>
-
 <br>
-<br>
-
-<!-- Gráfico de Contribuições (Activity Graph) -->
+<!-- Gráfico de Contribuições e Linguagens Adicionais acima da cobrinha -->
 <div align="center">
+  <!-- Gráfico de Atividade / Commits -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonio-carlos14&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" />
-</div>
-
 <br>
-
 <!-- Animação da Cobrinha (Contribuições) -->
 <div align="center">
   <picture>
@@ -94,9 +90,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antonio-carlos14/antonio-carlos14/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br>
-
 <!-- Rodapé / Status -->
 <div align="center">
   <h4>
