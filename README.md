@@ -20,7 +20,7 @@
       <blockquote>
         <em>"Na física, a força resultante determina a aceleração, mas na vida, resultados extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa."</em> ⛈️ 🧠
         <br><br>
-        <strong>Eu...</strong>
+        <h2><strong>Eu...</strong></h2>
         <br>
         <em>"Posso ser quem vai te deixar na cara do Gol, como <strong>Rodrygo Garro</strong>"</em>.<img height="35" alt="97282b327fd241faa94b59b88ccfda50~tplv-dhq7zx4c1p-video2sticker-mid" src="https://github.com/user-attachments/assets/f9818c1c-2993-4d61-b0f8-15ce5534368b" />
         <br>
