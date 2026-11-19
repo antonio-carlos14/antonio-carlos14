@@ -34,7 +34,7 @@
         <br>
         <em>"Aceitaria trabalhar por amor sem exigir dinheiro dependendo da sua situação, como <strong>Ángel Romero</strong> pelo Corinthians"</em>.
         <br>
-        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong></em>.
+        <em>"Faria o possível para Evoluirmos juntos enquanto conjunto, como <strong>Talles Mágico</strong>"</em>.
         <br>
         <em>"Jamais te trairia, como <strong>Carlos Miguel</strong>"</em>.
       </blockquote>
