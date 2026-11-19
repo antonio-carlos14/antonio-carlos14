@@ -47,9 +47,8 @@
 <!-- Seção de Tecnologias -->
 <div align="center">
   <h2>Experiência/Aprendendo em: <img width="35" height="35" alt="Sticker Tech" src="https://github.com/user-attachments/assets/3c4384b3-fc10-4f92-8921-aa950e50886e" /></h2>
-  <br
-  <img height="55" alt="JAVASCRIPT" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript"/>
-  &nbsp;&nbsp;
+  <br>
+  <img height="55" alt="JAVASCRIPT" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
   <img height="55" alt="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
   <img height="55" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img height="55" alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
