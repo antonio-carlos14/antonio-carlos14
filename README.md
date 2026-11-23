@@ -1,4 +1,3 @@
- <a href="https://antonio-carlos14.github.io/Portif-lio2.0/">Portifólio Profissional (Tematizado)</a><br><br>
 <!-- Banner de Topo com Cor de Fundo -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:2ea043&height=200&section=header&text=Falaee,%20bem-vindo%20ao%20meu%20portf%C3%B3lio!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ant%C3%B4nio%20Carlos%20%7C%20Estudante%20de%20Inform%C3%A1tica&descAlignY=58&descSize=18" />
@@ -13,7 +12,8 @@
     <td width="70%">
       <h2>Sobre Mim ☕ <img width="35" height="50" alt="Sticker Café" src="https://github.com/user-attachments/assets/07688263-d942-47a7-ac50-71550708238f" /></h2>
       <p>
-        Bem-vindo ao meu GitHub! 👋 <br><br>
+        Bem-vindo ao meu GitHub! 👋 <br>
+       <strong>(Acesse meu <a href="https://antonio-carlos14.github.io/Portif-lio2.0/">Portifólio Profissional (Tematizado)</a> para uma visão resumida e profissional do Técnico.)</strong><br><br>
         Me chamo <strong>Antônio</strong> e estou cursando <strong>Informática</strong> na <em>EEEP. Deputado Roberto Mesquita</em>. <br>
         Da queda, ao <strong>Topo!</strong>. <br>
         Totalmente im-<strong>PAR-CI-AAL</strong>
