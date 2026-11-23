@@ -68,13 +68,13 @@
 <!-- Estatísticas Dinâmicas, Linguagens e Sequências (Traduzidas para PT-BR) -->
 <div align="center">
   <a href="https://github.com/antonio-carlos14">
-    <img src="https://github-readme-stats.vercel.app/api?username=antonio-carlos14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" alt="Estatísticas do Antônio" />
+    <img src="https://github-readme-stats.vercel.app/api?username=antonio-carlos14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-BR" alt="Estatísticas do Antônio" />
   </a>
   <a href="https://github.com/antonio-carlos14">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-carlos14&layout=compact&theme=tokyonight&hide_border=true&locale=pt-BR" alt="Linguagens mais usadas" />
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-carlos14&theme=tokyonight&hide_border=true&locale=pt" alt="Sequência de Contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=antonio-carlos14&theme=tokyonight&hide_border=true&locale=pt" alt="Sequência de Contribuições" />
 </div>
 
 <br>
@@ -84,9 +84,7 @@
 <div align="center">
   <!-- Gráfico de Atividade / Commits -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonio-carlos14&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" />
-  
-<br>
-<br>
+</div>
 
 <br>
 <br>
